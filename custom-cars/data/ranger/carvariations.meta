@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+   <Item>
+      <modelName>prangerbu</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            0
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+         	  <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="305" />
+    </Item>
+     <Item>
+      <modelName>prangerverus</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            0
+            4
+            156
+	        0
+	        155
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            155
+            0
+            4
+            156
+	        0
+	        155
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="293" />
+    </Item>  
+     <Item>
+	      <modelName>prangerstalker</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            112
+	            112
+	            0
+	            156
+	            0
+	            0
+	          </indices>
+	        </Item>
+			<Item>
+	          <indices content="char_array">
+	            112
+	            112
+	            0
+	            1
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>36_landstalker_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="1"/>
+	      <sirenSettings value="301"/>
+	    </Item>
+   		<Item>
+	      <modelName>prangercara</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            112
+	            119
+	            0
+	            156
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="1"/>
+	      <sirenSettings value="305"/>
+	    </Item>
+  <Item>
+      <modelName>prangereveron</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            134
+          </indices>
+          <liveries>
+            <Item value="true"/>
+            <Item value="true"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1021_prangereveron_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="226"/>
+      <sirenSettings value="292"/>
+    </Item>
+      <Item>
+      <modelName>parkbf400</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            12
+            0
+            2
+            7 
+	    8
+	    156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>     
+      </colors>
+      <kits>
+        <Item>0_suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police Guv Plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="95" />
+    </Item>
+  <Item>
+      <modelName>prangersct</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            1
+            1
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72"/>
+      <sirenSettings value="292"/>
+    </Item>
+  <Item>
+      <modelName>prangertor</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            1
+            1
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>9_police3_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72"/>
+      <sirenSettings value="293"/>
+    </Item>
+   <Item>
+	      <modelName>prangersd</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            112
+	            112
+	            21
+	            156
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="0"/>
+	      <sirenSettings value="293"/>
+	    </Item>
+    <Item>
+	      <modelName>prangerstanier</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            112
+	            112
+	            0
+	            156
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="1"/>
+	      <sirenSettings value="293"/>
+	    </Item>
+		<Item>
+	      <modelName>prangerri</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            112
+	            112
+	            0
+	            1
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="1"/>
+	      <sirenSettings value="294"/>
+	    </Item>
+		<Item>
+	      <modelName>prangerlr</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            112
+	            112
+	            0
+	            1
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="1"/>
+	      <sirenSettings value="292"/>
+	    </Item>
+    <Item>
+	      <modelName>prangerbi</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            112
+	            119
+	            0
+	            156
+	            0
+	            0
+	          </indices>
+	        </Item>
+			 <Item>
+	          <indices content="char_array">
+	            112
+	            119
+	            0
+	            1
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="1"/>
+	      <sirenSettings value="305"/>
+	    </Item>
+      <Item>
+      <modelName>proutlaw</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            1
+            4
+            1
+			0
+			0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+			<Name>Police guv plate</Name>
+			<Value value="100"/>
+		  </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="124" />
+      <sirenSettings value="293" />
+    </Item>
+  <Item>
+      <modelName>prangeryo</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            1
+            0
+            6
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police Guv Plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="23"/>
+      <sirenSettings value="293"/>
+    </Item>
+  <Item>
+      <modelName>prangerme</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            5
+          </indices>
+          <liveries>
+            <Item value="true"/>
+            <Item value="true"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0"/>
+      <sirenSettings value="293"/>
+    </Item>
+        <Item>
+      <modelName>prangeral</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police Guv Plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="23"/>
+      <sirenSettings value="300"/>
+    </Item>
+    <Item>
+      <modelName>prangerme2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            0
+            0
+            5
+          </indices>
+          <liveries>
+            <Item value="true"/>
+            <Item value="true"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0"/>
+      <sirenSettings value="294"/>
+    </Item>
+		<Item>
+	      <modelName>prangerstalker2</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            112
+	            112
+	            0
+	            156
+	            0
+	            0
+	          </indices>
+	        </Item>
+			<Item>
+	          <indices content="char_array">
+	            112
+	            112
+	            0
+	            1
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>36_landstalker_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="1"/>
+	      <sirenSettings value="305"/>
+	    </Item>
+		<Item>
+	      <modelName>prangerbi2</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            112
+	            119
+	            0
+	            156
+	            0
+	            0
+	          </indices>
+	        </Item>
+			 <Item>
+	          <indices content="char_array">
+	            112
+	            119
+	            0
+	            1
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="1"/>
+	      <sirenSettings value="293"/>
+	    </Item>
+		<Item>
+	      <modelName>prangerlr2</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            112
+	            112
+	            0
+	            156
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="1"/>
+	      <sirenSettings value="295"/>
+	    </Item>
+	  <Item>
+      <modelName>prangeryo2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            1
+            0
+            6
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police Guv Plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="23"/>
+      <sirenSettings value="294"/>
+    </Item>
+<Item>
+      <modelName>prangerplane</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            131
+            54
+            131
+            54
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_defaultspraypatch</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities/>
+      </plateProbabilities>
+      <lightSettings value="18"/>
+      <sirenSettings value="0"/>
+    </Item>
+    <Item>
+	      <modelName>saspsteed</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            112
+	            112
+	            0
+	            1
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate oldst</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="o"/>
+	      <sirenSettings value="297"/>
+     </Item>
+     <Item>
+	      <modelName>prangerlrold</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            112
+	            112
+	            0
+	            1
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="1"/>
+	      <sirenSettings value="298"/>
+     </Item>
+  <Item>
+      <modelName>prangersm</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            156
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police Guv Plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0"/>
+      <sirenSettings value="302"/>
+    </Item>
+	<Item>
+      <modelName>prangersm3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            156
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police Guv Plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0"/>
+      <sirenSettings value="304"/>
+    </Item>
+ <Item>
+      <modelName>prangersm2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            156
+            156
+            111
+            111
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>		
+	<Item>
+          <indices content="char_array">
+            112
+            112
+            134
+            0
+            0
+            111
+            111
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>		
+      </colors>
+      <kits>
+        <Item>0_suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police Guv Plate Oldst</Name>
+            <Value value="50"/>
+          </Item>
+		  <Item>
+            <Name>Police Guv Plate Oldst2</Name>
+            <Value value="50"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="302" />
+    </Item>
+  <Item>
+	      <modelName>prangerpat</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            112
+	            112
+	            0
+	            1
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="1"/>
+	      <sirenSettings value="296"/>
+	    </Item>
+		 <Item>
+	      <modelName>prangerstanier2</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            112
+	            112
+	            0
+	            1
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="1"/>
+	      <sirenSettings value="298"/>
+	    </Item>
+      <Item>
+      <modelName>parkbjxl</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            0
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+         	  <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="300" />
+    </Item>
+    <Item>
+      <modelName>parkstalker</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+         	  <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="155" />
+      <sirenSettings value="301" />
+    </Item>
+  <Item>
+      <modelName>prangerheli</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            <Item value="112" />
+            <Item value="112" />
+            <Item value="111" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="18" />
+      <sirenSettings value="0" />
+    </Item>
+    	<Item>
+      <modelName>prangerpred</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            1
+            0
+            156
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits/>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities/>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="296"/>
+    </Item>
+	<Item>
+	      <modelName>prangerri</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            112
+	            112
+	            0
+	            1
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="1"/>
+	      <sirenSettings value="294"/>
+	    </Item>
+  <Item>
+      <modelName>prangerfc</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            156 
+            156
+            111          	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+			<Name>Police guv plate</Name>
+			<Value value="100"/>
+		  </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="134" />
+      <sirenSettings value="305" />
+    </Item>  
+  </variationData>
+</CVehicleModelInfoVariation>

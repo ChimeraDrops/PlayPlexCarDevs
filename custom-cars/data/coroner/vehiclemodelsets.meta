@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CAmbientModelSets>
+  <ModelSets>
+    <Item type="CAmbientModelSet">
+      <Name>BC_EXAMINER_VEHICLE</Name>
+      <Models>
+        <Item>
+          <Name>BCCORONER</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+    <Item type="CAmbientModelSet">
+      <Name>LS_CORONER_VEHICLE</Name>
+      <Models>
+        <Item>
+          <Name>CORONER</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>CORONER2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+  </ModelSets>
+</CAmbientModelSets>

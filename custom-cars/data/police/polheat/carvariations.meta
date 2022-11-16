@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>bcpd1</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            27
+            0
+            156
+            0
+            0
+          </indices>
+                <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="101"/>
+    </Item>
+    <Item>
+      <modelName>bcpd2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            16
+            0
+            156
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="62" />
+      <sirenSettings value="101" />
+    </Item>
+    <Item>
+      <modelName>bcpd3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            1
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="101"/>
+    </Item>
+    <Item>
+      <modelName>bcpd4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            2
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="6"/>
+      <sirenSettings value="101"/>
+    </Item>
+    <Item>
+      <modelName>polizia</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            77
+            156
+            4
+            156
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="6"/>
+      <sirenSettings value="103"/>
+    </Item>
+    <Item>
+      <modelName>bcpd5</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            156
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="73"/>
+      <sirenSettings value="101"/>
+    </Item>
+    <Item>
+      <modelName>bcpd6</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            156
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="47"/>
+      <sirenSettings value="101"/>
+    </Item>
+    <Item>
+      <modelName>bcpd7</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            4
+            0
+            11
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="29"/>
+      <sirenSettings value="101"/>
+    </Item>
+    <Item>
+      <modelName>bcpd8</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0 
+            0 
+            0 
+            156
+            3
+            0
+          </indices>
+          <liveries>
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="113" />
+      <sirenSettings value="102" />
+    </Item>
+    <Item>
+      <modelName>bcpd9</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0 
+            0 
+            0 
+            0
+            3
+            0
+          </indices>
+          <liveries>
+            <Item value="true" />
+          </liveries>
+        </Item>   
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="111" />
+      <sirenSettings value="101" />
+    </Item>
+    <Item>
+      <modelName>bcpd10</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            27
+            73
+            156
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="71"/>
+      <sirenSettings value="101"/>
+    </Item>
+    <Item>
+      <modelName>bcpd11</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            14
+            0
+            156
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_sport_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="64"/>
+      <sirenSettings value="101"/>
+    </Item>
+    <Item>
+      <modelName>bcpd12</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            5
+            3
+            132
+            156
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_sport_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="68"/>
+      <sirenSettings value="101"/>
+    </Item>
+    <Item>
+      <modelName>bcpd13</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            49
+            150
+            59
+            156
+            122
+            134
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_sport_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="17"/>
+      <sirenSettings value="101"/>
+    </Item>
+    <Item>
+      <modelName>bcpd13a</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            70
+            150
+            1
+            0
+            74
+            44
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_sport_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="17"/>
+      <sirenSettings value="101"/>
+    </Item>
+    <Item>
+      <modelName>bcpd14</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            0
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72"/>
+      <sirenSettings value="101"/>
+    </Item>
+    <Item>
+      <modelName>bcpd15</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            0
+            0
+            156
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_sport_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="631"/>
+      <sirenSettings value="101"/>
+    </Item>
+    <Item>
+      <modelName>bcpd15a</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            156
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_sport_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="631"/>
+      <sirenSettings value="101"/>
+    </Item>
+	<Item>
+      <modelName>bcpd16</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            27
+            73
+            156
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="19"/>
+      <sirenSettings value="101"/>
+    </Item>
+    <Item>
+      <modelName>bcpd17</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            5
+            156
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="58"/>
+      <sirenSettings value="101"/>
+    </Item>
+    <Item>
+      <modelName>bcpd18</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            27
+            0
+            156
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="true"/>
+          </liveries>
+        </Item>     
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="144" />
+      <sirenSettings value="101" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
